@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-using CRUDCORE.Datos;
-using CRUDCORE.Models;
+using CRUD.Datos;
+using CRUD.Models;
 
 namespace CRUDCORE.Controllers
 {
