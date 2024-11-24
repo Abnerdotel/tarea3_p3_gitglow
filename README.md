@@ -7,3 +7,6 @@ con sus respectivas operaciones basicas y conexion a base de datos
 
 Nota: Se presentó un inconveniente con el main, por lo tanto establecí master como predeterminado. Contando esta mas los 4 features se completan las 4 ramas
 
+![image](https://github.com/user-attachments/assets/7cd9cc5f-25a2-475e-a99a-6edf3edd6af1)
+
+
