@@ -3,7 +3,10 @@
 using CRUD.Datos;
 using CRUD.Models;
 
-namespace CRUDCORE.Controllers
+ Feature/Controller-Mantenedor
+namespace CRUD.Controllers
+namespace CRUD.Controllers
+master
 {
     public class MantenedorController : Controller
     {
