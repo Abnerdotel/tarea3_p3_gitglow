@@ -1,8 +1,8 @@
-﻿using CRUDCORE.Models;
+﻿using CRUD.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace CRUDCORE.Controllers
+namespace CRUD.Controllers
 {
     public class HomeController : Controller
     {
