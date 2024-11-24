@@ -24,7 +24,7 @@ namespace CRUD
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Mantenedor}/{action=Guardar}/{id?}");
 
             app.Run();
         }
